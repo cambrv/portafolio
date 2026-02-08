@@ -1,12 +1,6 @@
 // ============================================
 // CONFIGURACIÓN DE EMAILJS
 // ============================================
-// Reemplaza estos valores con los tuyos de https://www.emailjs.com/
-const EMAILJS_CONFIG = {
-    serviceID: 'service_k12cf3g',      // Ej: 'service_abc123'
-    templateID: 'template_6wgrsyo',    // Ej: 'template_xyz789'
-    publicKey: 'b60ilC8dzcIwrzwr4'       // Ej: 'user_123abc456def'
-};
 
 // ============================================
 // UTILIDADES Y MANEJO DE ERRORES
